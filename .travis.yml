@@ -24,5 +24,5 @@ deploy:
   file: src/ss-local
   skip_cleanup: true
   on:
-    repo: erguotou520/ssr-libev-ci
+    repo: simon300000/ssr-libev-ci
     branch: master
