@@ -25,4 +25,4 @@ deploy:
   skip_cleanup: true
   on:
     repo: simon300000/ssr-libev-ci
-    branch: master
+    branch: test
